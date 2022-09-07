@@ -11,5 +11,6 @@ public class HelloWorld {
         System.out.println("rain");
         System.out.println("bow");
         System.out.println("shine");
+        System.out.println("hot-fix");
     }
 }
